@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @liampallett
+- 👀 I’m interested in gaming, hockey and music
+- 🌱 I’m currently learning how to software engineer
+- 📫 How to reach me: liam.pallett06@gmail.com
+- 😄 Pronouns: he/they
