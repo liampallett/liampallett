@@ -8,3 +8,4 @@
 ## Project Ideas
 - 2D Orbit Simulation
 - Rover pathfinding using 3D terrain
+- Poker bot
