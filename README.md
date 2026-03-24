@@ -9,3 +9,5 @@
 
 ## Project Ideas
 - Rover pathfinding using 3D terrain
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=liampallett&theme=tokyonight" alt="mystreak"/>
