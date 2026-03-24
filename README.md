@@ -1,11 +1,11 @@
 ## Hi there 👋 I'm Liam Pallett
 
-- 🔭 I’m currently working on [open-ttd](https://github.com/liampallett/mock-telemetry-decoder)
-- 🌱 I’m currently learning C++
-- 📫 How to reach me: liam.pallett06@gmail.com
+- 🧑‍🎓 BEng Computer Science (Software Engineering) student at the University of Sheffield, UK
+- 🪐 I'm interested in space with the goal to break into the space industry as a software engineer.
+- 🔭 I’m currently working on [open-ttp](https://github.com/liampallett/open-ttp)
+- 🌱 I’m currently learning C++ for embedded systems programming and Python for ML and simulations.
+- 📫 How to reach me: liam.pallett06@gmail.com or [Bluesky](https://bsky.app/profile/liampallett.github.io)
 - 😄 Pronouns: he/they
 
 ## Project Ideas
-- 2D Orbit Simulation
 - Rover pathfinding using 3D terrain
-- Poker bot
