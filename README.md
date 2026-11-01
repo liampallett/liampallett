@@ -5,3 +5,5 @@
 - 🌱 I’m currently learning C++ for embedded systems programming and Python for ML and simulations.
 - 📫 How to reach me: liam.pallett06@gmail.com or [Bluesky](https://bsky.app/profile/liampallett.space)
 - 😄 Pronouns: he/they
+
+<img src="koi/koi.gif" width="256" alt="My koi" />
